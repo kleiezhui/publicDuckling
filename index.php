@@ -1,4 +1,4 @@
-<h2>Add a now plot </h2>
+<h2>Add a now plot</h2>
 <form action="vendor/create.php" method="post">
     <p>Owner</p>
     <input type="text" name="Owner">
